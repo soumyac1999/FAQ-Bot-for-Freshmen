@@ -1,4 +1,4 @@
-# SoC_2018-FAQ_Bot_for_Freshmen
+# FAQ-Bot-for-Freshmen
 
 ## Contents
 

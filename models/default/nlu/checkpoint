@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/soumya/Desktop/FAQ-Bot-for-Freshmen/models/default/nlu/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/soumya/Desktop/FAQ-Bot-for-Freshmen/models/default/nlu/intent_classifier_tensorflow_embedding.ckpt"

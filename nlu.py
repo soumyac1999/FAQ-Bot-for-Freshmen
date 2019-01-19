@@ -6,7 +6,7 @@ warnings.simplefilter('ignore', FutureWarning)
 
 #Load the trained model
 print("Loading model... \nPlease Wait...")
-interpreter = Interpreter.load("model")
+interpreter = Interpreter.load("./models/default/nlu")
 
 #To let the user know that nlu is ready to classify
 print("Hello!")

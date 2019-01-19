@@ -1,0 +1,780 @@
+## intent:Branch Change
+- which branch students are eligible for [branch change](Academics_Branch_Change)
+- which branch students are eligible for [change of branch](Academics_Branch_Change:branch change)
+- which branch students are eligible for [bc](Academics_Branch_Change:branch change)
+- Can students in dual degree programmes opt for for a [branch change](Academics_Branch_Change) to a 4 year program?
+- Can students in dual degree programmes opt for for a [change of branch](Academics_Branch_Change:branch change) to a 4 year program?
+- Can students in dual degree programmes opt for for a [bc](Academics_Branch_Change:branch change) to a 4 year program?
+- Can one [branch change](Academics_Branch_Change) from dual degree course to B.Tech course in the same department after first year
+- Can one [change of branch](Academics_Branch_Change:branch change) from dual degree course to B.Tech course in the same department after first year
+- Can one [bc](Academics_Branch_Change:branch change) from dual degree course to B.Tech course in the same department after first year
+- what are cutoff for [branch change](Academics_Branch_Change) to [CSE](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [computer science](Branch:CSE)
+- what are cutoff for [branch change](Academics_Branch_Change) to [computer science and engineering](Branch:CSE)
+- what are cutoff for [branch change](Academics_Branch_Change) to [EE B.Tech](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [electrical engineering](Branch:EE B.Tech)
+- what are cutoff for [branch change](Academics_Branch_Change) to [elec](Branch:EE B.Tech)
+- what are cutoff for [branch change](Academics_Branch_Change) to [EE Dual](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [electrical dual degree](Branch:EE Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [electrical engineering dual degree](Branch:EE Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [electrical dual](Branch:EE Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [ME](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [mechanical engineering](Branch:ME)
+- what are cutoff for [branch change](Academics_Branch_Change) to [mech](Branch:ME)
+- what are cutoff for [branch change](Academics_Branch_Change) to [ME Dual](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [mech dual](Branch:ME Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [mechanical dual degree](Branch:ME Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [mechanical engineering dual degree](Branch:ME Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [AE](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [aero](Branch:AE)
+- what are cutoff for [branch change](Academics_Branch_Change) to [aerospace engineering](Branch:AE)
+- what are cutoff for [branch change](Academics_Branch_Change) to [aerospace](Branch:AE)
+- what are cutoff for [branch change](Academics_Branch_Change) to [CL](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [chemical](Branch:CL)
+- what are cutoff for [branch change](Academics_Branch_Change) to [chemical engineering](Branch:CL)
+- what are cutoff for [branch change](Academics_Branch_Change) to [CE](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [civil](Branch:CE)
+- what are cutoff for [branch change](Academics_Branch_Change) to [civil engineering](Branch:CE)
+- what are cutoff for [branch change](Academics_Branch_Change) to [MEMS](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [meta](Branch:MEMS)
+- what are cutoff for [branch change](Academics_Branch_Change) to [metallurgical engineering and materials science](Branch:MEMS)
+- what are cutoff for [branch change](Academics_Branch_Change) to [MEMS Dual](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [meta dual](Branch:MEMS Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [metallurgical engineering and materials science dual degree](Branch:MEMS Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [metallurgical engineering and materials science dual](Branch:MEMS Dual)
+- what are cutoff for [branch change](Academics_Branch_Change) to [EP](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [engineering physics](Branch:EP)
+- what are cutoff for [branch change](Academics_Branch_Change) to [Energy](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [energy science and engineering](Branch:Energy)
+- what are cutoff for [branch change](Academics_Branch_Change) to [Energy Science and Engineering](Branch:Energy)
+- what are cutoff for [branch change](Academics_Branch_Change) to [Chemistry](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [Economics](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [IDC](Branch)
+- what are cutoff for [branch change](Academics_Branch_Change) to [B.Des](Branch:IDC)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [CSE](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [computer science](Branch:CSE)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [computer science and engineering](Branch:CSE)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [EE B.Tech](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [electrical engineering](Branch:EE B.Tech)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [elec](Branch:EE B.Tech)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [EE Dual](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [electrical dual degree](Branch:EE Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [electrical engineering dual degree](Branch:EE Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [electrical dual](Branch:EE Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [ME](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [mechanical engineering](Branch:ME)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [mech](Branch:ME)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [ME Dual](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [mech dual](Branch:ME Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [mechanical dual degree](Branch:ME Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [mechanical engineering dual degree](Branch:ME Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [AE](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [aero](Branch:AE)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [aerospace engineering](Branch:AE)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [aerospace](Branch:AE)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [CL](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [chemical](Branch:CL)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [chemical engineering](Branch:CL)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [CE](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [civil](Branch:CE)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [civil engineering](Branch:CE)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [MEMS](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [meta](Branch:MEMS)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [metallurgical engineering and materials science](Branch:MEMS)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [MEMS Dual](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [meta dual](Branch:MEMS Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [metallurgical engineering and materials science dual degree](Branch:MEMS Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [metallurgical engineering and materials science dual](Branch:MEMS Dual)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [EP](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [engineering physics](Branch:EP)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [Energy](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [energy science and engineering](Branch:Energy)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [Energy Science and Engineering](Branch:Energy)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [Chemistry](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [Economics](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [IDC](Branch)
+- what are cutoff for [change of branch](Academics_Branch_Change:branch change) to [B.Des](Branch:IDC)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [CSE](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [computer science](Branch:CSE)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [computer science and engineering](Branch:CSE)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [EE B.Tech](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [electrical engineering](Branch:EE B.Tech)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [elec](Branch:EE B.Tech)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [EE Dual](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [electrical dual degree](Branch:EE Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [electrical engineering dual degree](Branch:EE Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [electrical dual](Branch:EE Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [ME](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [mechanical engineering](Branch:ME)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [mech](Branch:ME)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [ME Dual](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [mech dual](Branch:ME Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [mechanical dual degree](Branch:ME Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [mechanical engineering dual degree](Branch:ME Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [AE](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [aero](Branch:AE)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [aerospace engineering](Branch:AE)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [aerospace](Branch:AE)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [CL](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [chemical](Branch:CL)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [chemical engineering](Branch:CL)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [CE](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [civil](Branch:CE)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [civil engineering](Branch:CE)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [MEMS](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [meta](Branch:MEMS)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [metallurgical engineering and materials science](Branch:MEMS)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [MEMS Dual](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [meta dual](Branch:MEMS Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [metallurgical engineering and materials science dual degree](Branch:MEMS Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [metallurgical engineering and materials science dual](Branch:MEMS Dual)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [EP](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [engineering physics](Branch:EP)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [Energy](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [energy science and engineering](Branch:Energy)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [Energy Science and Engineering](Branch:Energy)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [Chemistry](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [Economics](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [IDC](Branch)
+- what are cutoff for [bc](Academics_Branch_Change:branch change) to [B.Des](Branch:IDC)
+- Could you please tell the cutoff for [branch change](Academics_Branch_Change)
+- Could you please tell the cutoff for [change of branch](Academics_Branch_Change:branch change)
+- Could you please tell the cutoff for [bc](Academics_Branch_Change:branch change)
+
+## intent:Cell Phone
+- which Cellphone Carrier has the strongest network in campus
+- which cellphone carrier has fastest internet in campus
+
+## intent:Classes
+- When are the classes starting ?
+- How long are classes?
+- What are the class timings?
+
+## intent:Course Info
+- can i get information about the course [CSE](Branch)
+- can i get information about the course [computer science](Branch:CSE)
+- can i get information about the course [computer science and engineering](Branch:CSE)
+- can i get information about the course [EE B.Tech](Branch)
+- can i get information about the course [electrical engineering](Branch:EE B.Tech)
+- can i get information about the course [elec](Branch:EE B.Tech)
+- can i get information about the course [EE Dual](Branch)
+- can i get information about the course [electrical dual degree](Branch:EE Dual)
+- can i get information about the course [electrical engineering dual degree](Branch:EE Dual)
+- can i get information about the course [electrical dual](Branch:EE Dual)
+- can i get information about the course [ME](Branch)
+- can i get information about the course [mechanical engineering](Branch:ME)
+- can i get information about the course [mech](Branch:ME)
+- can i get information about the course [ME Dual](Branch)
+- can i get information about the course [mech dual](Branch:ME Dual)
+- can i get information about the course [mechanical dual degree](Branch:ME Dual)
+- can i get information about the course [mechanical engineering dual degree](Branch:ME Dual)
+- can i get information about the course [AE](Branch)
+- can i get information about the course [aero](Branch:AE)
+- can i get information about the course [aerospace engineering](Branch:AE)
+- can i get information about the course [aerospace](Branch:AE)
+- can i get information about the course [CL](Branch)
+- can i get information about the course [chemical](Branch:CL)
+- can i get information about the course [chemical engineering](Branch:CL)
+- can i get information about the course [CE](Branch)
+- can i get information about the course [civil](Branch:CE)
+- can i get information about the course [civil engineering](Branch:CE)
+- can i get information about the course [MEMS](Branch)
+- can i get information about the course [meta](Branch:MEMS)
+- can i get information about the course [metallurgical engineering and materials science](Branch:MEMS)
+- can i get information about the course [MEMS Dual](Branch)
+- can i get information about the course [meta dual](Branch:MEMS Dual)
+- can i get information about the course [metallurgical engineering and materials science dual degree](Branch:MEMS Dual)
+- can i get information about the course [metallurgical engineering and materials science dual](Branch:MEMS Dual)
+- can i get information about the course [EP](Branch)
+- can i get information about the course [engineering physics](Branch:EP)
+- can i get information about the course [Energy](Branch)
+- can i get information about the course [energy science and engineering](Branch:Energy)
+- can i get information about the course [Energy Science and Engineering](Branch:Energy)
+- can i get information about the course [Chemistry](Branch)
+- can i get information about the course [Economics](Branch)
+- can i get information about the course [IDC](Branch)
+- can i get information about the course [B.Des](Branch:IDC)
+
+## intent:Fees
+- Where shall we find the details of fees to be deposited and how can we deposit that fees?
+- By which modes of payment can we pay UG First Year fees? The Offer Letter on the academic website says that only netbanking is allowed. Does this mean only SBI Netbanking or any bank's netbanking?
+- When will the fee portal for UG admissions become active? The last date for fee payment is 18th July and it's already 15th today.
+- What are the mode of fee payment for freshers
+- Is the fee of seat acceptance deducted from our fees at IIT Bombay ?
+- when will we get course fee structure
+
+## intent:Hostel Allotment
+- when will we get the [hostel](Hostel_Allotment)?
+- when will we get the [room](Hostel_Allotment)?
+- when will we get the [hostel room](Hostel_Allotment:room)?
+- Can I and my friend live in the same [hostel](Hostel_Allotment) ?
+- Can I and my friend live in the same [room](Hostel_Allotment) ?
+- Can I and my friend live in the same [hostel room](Hostel_Allotment:room) ?
+- Which [hostel](Hostel_Allotment) will be allotted to [CSE](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [computer science](Branch:CSE) students
+- Which [hostel](Hostel_Allotment) will be allotted to [computer science and engineering](Branch:CSE) students
+- Which [hostel](Hostel_Allotment) will be allotted to [EE B.Tech](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [electrical engineering](Branch:EE B.Tech) students
+- Which [hostel](Hostel_Allotment) will be allotted to [elec](Branch:EE B.Tech) students
+- Which [hostel](Hostel_Allotment) will be allotted to [EE Dual](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [electrical dual degree](Branch:EE Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [electrical engineering dual degree](Branch:EE Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [electrical dual](Branch:EE Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [ME](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [mechanical engineering](Branch:ME) students
+- Which [hostel](Hostel_Allotment) will be allotted to [mech](Branch:ME) students
+- Which [hostel](Hostel_Allotment) will be allotted to [ME Dual](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [mech dual](Branch:ME Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [mechanical dual degree](Branch:ME Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [mechanical engineering dual degree](Branch:ME Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [AE](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [aero](Branch:AE) students
+- Which [hostel](Hostel_Allotment) will be allotted to [aerospace engineering](Branch:AE) students
+- Which [hostel](Hostel_Allotment) will be allotted to [aerospace](Branch:AE) students
+- Which [hostel](Hostel_Allotment) will be allotted to [CL](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [chemical](Branch:CL) students
+- Which [hostel](Hostel_Allotment) will be allotted to [chemical engineering](Branch:CL) students
+- Which [hostel](Hostel_Allotment) will be allotted to [CE](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [civil](Branch:CE) students
+- Which [hostel](Hostel_Allotment) will be allotted to [civil engineering](Branch:CE) students
+- Which [hostel](Hostel_Allotment) will be allotted to [MEMS](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [meta](Branch:MEMS) students
+- Which [hostel](Hostel_Allotment) will be allotted to [metallurgical engineering and materials science](Branch:MEMS) students
+- Which [hostel](Hostel_Allotment) will be allotted to [MEMS Dual](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [meta dual](Branch:MEMS Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [metallurgical engineering and materials science dual degree](Branch:MEMS Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [metallurgical engineering and materials science dual](Branch:MEMS Dual) students
+- Which [hostel](Hostel_Allotment) will be allotted to [EP](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [engineering physics](Branch:EP) students
+- Which [hostel](Hostel_Allotment) will be allotted to [Energy](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [energy science and engineering](Branch:Energy) students
+- Which [hostel](Hostel_Allotment) will be allotted to [Energy Science and Engineering](Branch:Energy) students
+- Which [hostel](Hostel_Allotment) will be allotted to [Chemistry](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [Economics](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [IDC](Branch) students
+- Which [hostel](Hostel_Allotment) will be allotted to [B.Des](Branch:IDC) students
+- Which [room](Hostel_Allotment) will be allotted to [CSE](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [computer science](Branch:CSE) students
+- Which [room](Hostel_Allotment) will be allotted to [computer science and engineering](Branch:CSE) students
+- Which [room](Hostel_Allotment) will be allotted to [EE B.Tech](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [electrical engineering](Branch:EE B.Tech) students
+- Which [room](Hostel_Allotment) will be allotted to [elec](Branch:EE B.Tech) students
+- Which [room](Hostel_Allotment) will be allotted to [EE Dual](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [electrical dual degree](Branch:EE Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [electrical engineering dual degree](Branch:EE Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [electrical dual](Branch:EE Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [ME](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [mechanical engineering](Branch:ME) students
+- Which [room](Hostel_Allotment) will be allotted to [mech](Branch:ME) students
+- Which [room](Hostel_Allotment) will be allotted to [ME Dual](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [mech dual](Branch:ME Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [mechanical dual degree](Branch:ME Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [mechanical engineering dual degree](Branch:ME Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [AE](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [aero](Branch:AE) students
+- Which [room](Hostel_Allotment) will be allotted to [aerospace engineering](Branch:AE) students
+- Which [room](Hostel_Allotment) will be allotted to [aerospace](Branch:AE) students
+- Which [room](Hostel_Allotment) will be allotted to [CL](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [chemical](Branch:CL) students
+- Which [room](Hostel_Allotment) will be allotted to [chemical engineering](Branch:CL) students
+- Which [room](Hostel_Allotment) will be allotted to [CE](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [civil](Branch:CE) students
+- Which [room](Hostel_Allotment) will be allotted to [civil engineering](Branch:CE) students
+- Which [room](Hostel_Allotment) will be allotted to [MEMS](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [meta](Branch:MEMS) students
+- Which [room](Hostel_Allotment) will be allotted to [metallurgical engineering and materials science](Branch:MEMS) students
+- Which [room](Hostel_Allotment) will be allotted to [MEMS Dual](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [meta dual](Branch:MEMS Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [metallurgical engineering and materials science dual degree](Branch:MEMS Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [metallurgical engineering and materials science dual](Branch:MEMS Dual) students
+- Which [room](Hostel_Allotment) will be allotted to [EP](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [engineering physics](Branch:EP) students
+- Which [room](Hostel_Allotment) will be allotted to [Energy](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [energy science and engineering](Branch:Energy) students
+- Which [room](Hostel_Allotment) will be allotted to [Energy Science and Engineering](Branch:Energy) students
+- Which [room](Hostel_Allotment) will be allotted to [Chemistry](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [Economics](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [IDC](Branch) students
+- Which [room](Hostel_Allotment) will be allotted to [B.Des](Branch:IDC) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [CSE](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [computer science](Branch:CSE) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [computer science and engineering](Branch:CSE) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [EE B.Tech](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [electrical engineering](Branch:EE B.Tech) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [elec](Branch:EE B.Tech) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [EE Dual](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [electrical dual degree](Branch:EE Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [electrical engineering dual degree](Branch:EE Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [electrical dual](Branch:EE Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [ME](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [mechanical engineering](Branch:ME) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [mech](Branch:ME) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [ME Dual](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [mech dual](Branch:ME Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [mechanical dual degree](Branch:ME Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [mechanical engineering dual degree](Branch:ME Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [AE](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [aero](Branch:AE) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [aerospace engineering](Branch:AE) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [aerospace](Branch:AE) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [CL](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [chemical](Branch:CL) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [chemical engineering](Branch:CL) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [CE](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [civil](Branch:CE) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [civil engineering](Branch:CE) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [MEMS](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [meta](Branch:MEMS) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [metallurgical engineering and materials science](Branch:MEMS) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [MEMS Dual](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [meta dual](Branch:MEMS Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [metallurgical engineering and materials science dual degree](Branch:MEMS Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [metallurgical engineering and materials science dual](Branch:MEMS Dual) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [EP](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [engineering physics](Branch:EP) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [Energy](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [energy science and engineering](Branch:Energy) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [Energy Science and Engineering](Branch:Energy) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [Chemistry](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [Economics](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [IDC](Branch) students
+- Which [hostel room](Hostel_Allotment:room) will be allotted to [B.Des](Branch:IDC) students
+
+## intent:Hostel Furnishing
+- A [table](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [table](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [chair](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [table](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [chair](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [table](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [chair](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+- A [cupboard](Hostel_Furnishing), a [cupboard](Hostel_Furnishing), and a [cupboard](Hostel_Furnishing) - are these for a student or one in a the room (shared by both roommates)
+
+## intent:Hostel Laundry
+- Can I get some info abt [wash clothes](Hostel_Laundry). is it needed to stitch name tags on clothes
+- Can I get some info abt [washing machine](Hostel_Laundry). is it needed to stitch name tags on clothes
+- Can I get some info abt [ironing clothes](Hostel_Laundry). is it needed to stitch name tags on clothes
+- Can I get some info abt [iron](Hostel_Laundry:ironing clothes). is it needed to stitch name tags on clothes
+- Can I get some info abt [dryer](Hostel_Laundry). is it needed to stitch name tags on clothes
+- Can I get some info abt [drying clothes](Hostel_Laundry:dryer). is it needed to stitch name tags on clothes
+- will they have [wash clothes](Hostel_Laundry) which we have to use on our own
+- will they have [washing machine](Hostel_Laundry) which we have to use on our own
+- will they have [ironing clothes](Hostel_Laundry) which we have to use on our own
+- will they have [iron](Hostel_Laundry:ironing clothes) which we have to use on our own
+- will they have [dryer](Hostel_Laundry) which we have to use on our own
+- will they have [drying clothes](Hostel_Laundry:dryer) which we have to use on our own
+- Will they take the laundry and [wash clothes](Hostel_Laundry) and [wash clothes](Hostel_Laundry)
+- Will they take the laundry and [wash clothes](Hostel_Laundry) and [washing machine](Hostel_Laundry)
+- Will they take the laundry and [wash clothes](Hostel_Laundry) and [ironing clothes](Hostel_Laundry)
+- Will they take the laundry and [wash clothes](Hostel_Laundry) and [iron](Hostel_Laundry:ironing clothes)
+- Will they take the laundry and [wash clothes](Hostel_Laundry) and [dryer](Hostel_Laundry)
+- Will they take the laundry and [wash clothes](Hostel_Laundry) and [drying clothes](Hostel_Laundry:dryer)
+- Will they take the laundry and [washing machine](Hostel_Laundry) and [wash clothes](Hostel_Laundry)
+- Will they take the laundry and [washing machine](Hostel_Laundry) and [washing machine](Hostel_Laundry)
+- Will they take the laundry and [washing machine](Hostel_Laundry) and [ironing clothes](Hostel_Laundry)
+- Will they take the laundry and [washing machine](Hostel_Laundry) and [iron](Hostel_Laundry:ironing clothes)
+- Will they take the laundry and [washing machine](Hostel_Laundry) and [dryer](Hostel_Laundry)
+- Will they take the laundry and [washing machine](Hostel_Laundry) and [drying clothes](Hostel_Laundry:dryer)
+- Will they take the laundry and [ironing clothes](Hostel_Laundry) and [wash clothes](Hostel_Laundry)
+- Will they take the laundry and [ironing clothes](Hostel_Laundry) and [washing machine](Hostel_Laundry)
+- Will they take the laundry and [ironing clothes](Hostel_Laundry) and [ironing clothes](Hostel_Laundry)
+- Will they take the laundry and [ironing clothes](Hostel_Laundry) and [iron](Hostel_Laundry:ironing clothes)
+- Will they take the laundry and [ironing clothes](Hostel_Laundry) and [dryer](Hostel_Laundry)
+- Will they take the laundry and [ironing clothes](Hostel_Laundry) and [drying clothes](Hostel_Laundry:dryer)
+- Will they take the laundry and [iron](Hostel_Laundry:ironing clothes) and [wash clothes](Hostel_Laundry)
+- Will they take the laundry and [iron](Hostel_Laundry:ironing clothes) and [washing machine](Hostel_Laundry)
+- Will they take the laundry and [iron](Hostel_Laundry:ironing clothes) and [ironing clothes](Hostel_Laundry)
+- Will they take the laundry and [iron](Hostel_Laundry:ironing clothes) and [iron](Hostel_Laundry:ironing clothes)
+- Will they take the laundry and [iron](Hostel_Laundry:ironing clothes) and [dryer](Hostel_Laundry)
+- Will they take the laundry and [iron](Hostel_Laundry:ironing clothes) and [drying clothes](Hostel_Laundry:dryer)
+- Will they take the laundry and [dryer](Hostel_Laundry) and [wash clothes](Hostel_Laundry)
+- Will they take the laundry and [dryer](Hostel_Laundry) and [washing machine](Hostel_Laundry)
+- Will they take the laundry and [dryer](Hostel_Laundry) and [ironing clothes](Hostel_Laundry)
+- Will they take the laundry and [dryer](Hostel_Laundry) and [iron](Hostel_Laundry:ironing clothes)
+- Will they take the laundry and [dryer](Hostel_Laundry) and [dryer](Hostel_Laundry)
+- Will they take the laundry and [dryer](Hostel_Laundry) and [drying clothes](Hostel_Laundry:dryer)
+- Will they take the laundry and [drying clothes](Hostel_Laundry:dryer) and [wash clothes](Hostel_Laundry)
+- Will they take the laundry and [drying clothes](Hostel_Laundry:dryer) and [washing machine](Hostel_Laundry)
+- Will they take the laundry and [drying clothes](Hostel_Laundry:dryer) and [ironing clothes](Hostel_Laundry)
+- Will they take the laundry and [drying clothes](Hostel_Laundry:dryer) and [iron](Hostel_Laundry:ironing clothes)
+- Will they take the laundry and [drying clothes](Hostel_Laundry:dryer) and [dryer](Hostel_Laundry)
+- Will they take the laundry and [drying clothes](Hostel_Laundry:dryer) and [drying clothes](Hostel_Laundry:dryer)
+
+## intent:Hostel Mattress
+- we really have to get our own mattress?
+- When we will get time for setting up things in hostel like purchasing mattress pest control for bed bugs?
+
+## intent:Hostel Pests
+- is the problem of [pests](Hostel_Pests) nd [pests](Hostel_Pests) severe (is pest control required)
+- is the problem of [pests](Hostel_Pests) nd [insects](Hostel_Pests) severe (is pest control required)
+- is the problem of [pests](Hostel_Pests) nd [bed bugs](Hostel_Pests) severe (is pest control required)
+- is the problem of [insects](Hostel_Pests) nd [pests](Hostel_Pests) severe (is pest control required)
+- is the problem of [insects](Hostel_Pests) nd [insects](Hostel_Pests) severe (is pest control required)
+- is the problem of [insects](Hostel_Pests) nd [bed bugs](Hostel_Pests) severe (is pest control required)
+- is the problem of [bed bugs](Hostel_Pests) nd [pests](Hostel_Pests) severe (is pest control required)
+- is the problem of [bed bugs](Hostel_Pests) nd [insects](Hostel_Pests) severe (is pest control required)
+- is the problem of [bed bugs](Hostel_Pests) nd [bed bugs](Hostel_Pests) severe (is pest control required)
+- When we will get time for setting up things in hostel like purchasing mattress pest control for [pests](Hostel_Pests)?
+- When we will get time for setting up things in hostel like purchasing mattress pest control for [insects](Hostel_Pests)?
+- When we will get time for setting up things in hostel like purchasing mattress pest control for [bed bugs](Hostel_Pests)?
+
+## intent:Laptop
+- Is it recommended to have our own Laptops in the first year?
+- What laptop is recommended for [CSE](Branch) students
+- What laptop is recommended for [computer science](Branch:CSE) students
+- What laptop is recommended for [computer science and engineering](Branch:CSE) students
+- What laptop is recommended for [EE B.Tech](Branch) students
+- What laptop is recommended for [electrical engineering](Branch:EE B.Tech) students
+- What laptop is recommended for [elec](Branch:EE B.Tech) students
+- What laptop is recommended for [EE Dual](Branch) students
+- What laptop is recommended for [electrical dual degree](Branch:EE Dual) students
+- What laptop is recommended for [electrical engineering dual degree](Branch:EE Dual) students
+- What laptop is recommended for [electrical dual](Branch:EE Dual) students
+- What laptop is recommended for [ME](Branch) students
+- What laptop is recommended for [mechanical engineering](Branch:ME) students
+- What laptop is recommended for [mech](Branch:ME) students
+- What laptop is recommended for [ME Dual](Branch) students
+- What laptop is recommended for [mech dual](Branch:ME Dual) students
+- What laptop is recommended for [mechanical dual degree](Branch:ME Dual) students
+- What laptop is recommended for [mechanical engineering dual degree](Branch:ME Dual) students
+- What laptop is recommended for [AE](Branch) students
+- What laptop is recommended for [aero](Branch:AE) students
+- What laptop is recommended for [aerospace engineering](Branch:AE) students
+- What laptop is recommended for [aerospace](Branch:AE) students
+- What laptop is recommended for [CL](Branch) students
+- What laptop is recommended for [chemical](Branch:CL) students
+- What laptop is recommended for [chemical engineering](Branch:CL) students
+- What laptop is recommended for [CE](Branch) students
+- What laptop is recommended for [civil](Branch:CE) students
+- What laptop is recommended for [civil engineering](Branch:CE) students
+- What laptop is recommended for [MEMS](Branch) students
+- What laptop is recommended for [meta](Branch:MEMS) students
+- What laptop is recommended for [metallurgical engineering and materials science](Branch:MEMS) students
+- What laptop is recommended for [MEMS Dual](Branch) students
+- What laptop is recommended for [meta dual](Branch:MEMS Dual) students
+- What laptop is recommended for [metallurgical engineering and materials science dual degree](Branch:MEMS Dual) students
+- What laptop is recommended for [metallurgical engineering and materials science dual](Branch:MEMS Dual) students
+- What laptop is recommended for [EP](Branch) students
+- What laptop is recommended for [engineering physics](Branch:EP) students
+- What laptop is recommended for [Energy](Branch) students
+- What laptop is recommended for [energy science and engineering](Branch:Energy) students
+- What laptop is recommended for [Energy Science and Engineering](Branch:Energy) students
+- What laptop is recommended for [Chemistry](Branch) students
+- What laptop is recommended for [Economics](Branch) students
+- What laptop is recommended for [IDC](Branch) students
+- What laptop is recommended for [B.Des](Branch:IDC) students
+- Which laptop is recommended for a [CSE](Branch) fresher?
+- Which laptop is recommended for a [computer science](Branch:CSE) fresher?
+- Which laptop is recommended for a [computer science and engineering](Branch:CSE) fresher?
+- Which laptop is recommended for a [EE B.Tech](Branch) fresher?
+- Which laptop is recommended for a [electrical engineering](Branch:EE B.Tech) fresher?
+- Which laptop is recommended for a [elec](Branch:EE B.Tech) fresher?
+- Which laptop is recommended for a [EE Dual](Branch) fresher?
+- Which laptop is recommended for a [electrical dual degree](Branch:EE Dual) fresher?
+- Which laptop is recommended for a [electrical engineering dual degree](Branch:EE Dual) fresher?
+- Which laptop is recommended for a [electrical dual](Branch:EE Dual) fresher?
+- Which laptop is recommended for a [ME](Branch) fresher?
+- Which laptop is recommended for a [mechanical engineering](Branch:ME) fresher?
+- Which laptop is recommended for a [mech](Branch:ME) fresher?
+- Which laptop is recommended for a [ME Dual](Branch) fresher?
+- Which laptop is recommended for a [mech dual](Branch:ME Dual) fresher?
+- Which laptop is recommended for a [mechanical dual degree](Branch:ME Dual) fresher?
+- Which laptop is recommended for a [mechanical engineering dual degree](Branch:ME Dual) fresher?
+- Which laptop is recommended for a [AE](Branch) fresher?
+- Which laptop is recommended for a [aero](Branch:AE) fresher?
+- Which laptop is recommended for a [aerospace engineering](Branch:AE) fresher?
+- Which laptop is recommended for a [aerospace](Branch:AE) fresher?
+- Which laptop is recommended for a [CL](Branch) fresher?
+- Which laptop is recommended for a [chemical](Branch:CL) fresher?
+- Which laptop is recommended for a [chemical engineering](Branch:CL) fresher?
+- Which laptop is recommended for a [CE](Branch) fresher?
+- Which laptop is recommended for a [civil](Branch:CE) fresher?
+- Which laptop is recommended for a [civil engineering](Branch:CE) fresher?
+- Which laptop is recommended for a [MEMS](Branch) fresher?
+- Which laptop is recommended for a [meta](Branch:MEMS) fresher?
+- Which laptop is recommended for a [metallurgical engineering and materials science](Branch:MEMS) fresher?
+- Which laptop is recommended for a [MEMS Dual](Branch) fresher?
+- Which laptop is recommended for a [meta dual](Branch:MEMS Dual) fresher?
+- Which laptop is recommended for a [metallurgical engineering and materials science dual degree](Branch:MEMS Dual) fresher?
+- Which laptop is recommended for a [metallurgical engineering and materials science dual](Branch:MEMS Dual) fresher?
+- Which laptop is recommended for a [EP](Branch) fresher?
+- Which laptop is recommended for a [engineering physics](Branch:EP) fresher?
+- Which laptop is recommended for a [Energy](Branch) fresher?
+- Which laptop is recommended for a [energy science and engineering](Branch:Energy) fresher?
+- Which laptop is recommended for a [Energy Science and Engineering](Branch:Energy) fresher?
+- Which laptop is recommended for a [Chemistry](Branch) fresher?
+- Which laptop is recommended for a [Economics](Branch) fresher?
+- Which laptop is recommended for a [IDC](Branch) fresher?
+- Which laptop is recommended for a [B.Des](Branch:IDC) fresher?
+- How useful will an iPad be instead of a laptop, as a freshman
+- If laptop not available in the beginning then how to use hostel internet facility
+
+## intent:Minors
+- I have interest in nuclear electricity. Are there any minors regarding this field?
+- What benefits will doing a minor in [CSE](Branch) give?
+- What benefits will doing a minor in [computer science](Branch:CSE) give?
+- What benefits will doing a minor in [computer science and engineering](Branch:CSE) give?
+- What benefits will doing a minor in [EE B.Tech](Branch) give?
+- What benefits will doing a minor in [electrical engineering](Branch:EE B.Tech) give?
+- What benefits will doing a minor in [elec](Branch:EE B.Tech) give?
+- What benefits will doing a minor in [EE Dual](Branch) give?
+- What benefits will doing a minor in [electrical dual degree](Branch:EE Dual) give?
+- What benefits will doing a minor in [electrical engineering dual degree](Branch:EE Dual) give?
+- What benefits will doing a minor in [electrical dual](Branch:EE Dual) give?
+- What benefits will doing a minor in [ME](Branch) give?
+- What benefits will doing a minor in [mechanical engineering](Branch:ME) give?
+- What benefits will doing a minor in [mech](Branch:ME) give?
+- What benefits will doing a minor in [ME Dual](Branch) give?
+- What benefits will doing a minor in [mech dual](Branch:ME Dual) give?
+- What benefits will doing a minor in [mechanical dual degree](Branch:ME Dual) give?
+- What benefits will doing a minor in [mechanical engineering dual degree](Branch:ME Dual) give?
+- What benefits will doing a minor in [AE](Branch) give?
+- What benefits will doing a minor in [aero](Branch:AE) give?
+- What benefits will doing a minor in [aerospace engineering](Branch:AE) give?
+- What benefits will doing a minor in [aerospace](Branch:AE) give?
+- What benefits will doing a minor in [CL](Branch) give?
+- What benefits will doing a minor in [chemical](Branch:CL) give?
+- What benefits will doing a minor in [chemical engineering](Branch:CL) give?
+- What benefits will doing a minor in [CE](Branch) give?
+- What benefits will doing a minor in [civil](Branch:CE) give?
+- What benefits will doing a minor in [civil engineering](Branch:CE) give?
+- What benefits will doing a minor in [MEMS](Branch) give?
+- What benefits will doing a minor in [meta](Branch:MEMS) give?
+- What benefits will doing a minor in [metallurgical engineering and materials science](Branch:MEMS) give?
+- What benefits will doing a minor in [MEMS Dual](Branch) give?
+- What benefits will doing a minor in [meta dual](Branch:MEMS Dual) give?
+- What benefits will doing a minor in [metallurgical engineering and materials science dual degree](Branch:MEMS Dual) give?
+- What benefits will doing a minor in [metallurgical engineering and materials science dual](Branch:MEMS Dual) give?
+- What benefits will doing a minor in [EP](Branch) give?
+- What benefits will doing a minor in [engineering physics](Branch:EP) give?
+- What benefits will doing a minor in [Energy](Branch) give?
+- What benefits will doing a minor in [energy science and engineering](Branch:Energy) give?
+- What benefits will doing a minor in [Energy Science and Engineering](Branch:Energy) give?
+- What benefits will doing a minor in [Chemistry](Branch) give?
+- What benefits will doing a minor in [Economics](Branch) give?
+- What benefits will doing a minor in [IDC](Branch) give?
+- What benefits will doing a minor in [B.Des](Branch:IDC) give?
+
+## intent:Placements
+- Which core companies come for placements at IITB for [CSE](Branch)
+- Which core companies come for placements at IITB for [computer science](Branch:CSE)
+- Which core companies come for placements at IITB for [computer science and engineering](Branch:CSE)
+- Which core companies come for placements at IITB for [EE B.Tech](Branch)
+- Which core companies come for placements at IITB for [electrical engineering](Branch:EE B.Tech)
+- Which core companies come for placements at IITB for [elec](Branch:EE B.Tech)
+- Which core companies come for placements at IITB for [EE Dual](Branch)
+- Which core companies come for placements at IITB for [electrical dual degree](Branch:EE Dual)
+- Which core companies come for placements at IITB for [electrical engineering dual degree](Branch:EE Dual)
+- Which core companies come for placements at IITB for [electrical dual](Branch:EE Dual)
+- Which core companies come for placements at IITB for [ME](Branch)
+- Which core companies come for placements at IITB for [mechanical engineering](Branch:ME)
+- Which core companies come for placements at IITB for [mech](Branch:ME)
+- Which core companies come for placements at IITB for [ME Dual](Branch)
+- Which core companies come for placements at IITB for [mech dual](Branch:ME Dual)
+- Which core companies come for placements at IITB for [mechanical dual degree](Branch:ME Dual)
+- Which core companies come for placements at IITB for [mechanical engineering dual degree](Branch:ME Dual)
+- Which core companies come for placements at IITB for [AE](Branch)
+- Which core companies come for placements at IITB for [aero](Branch:AE)
+- Which core companies come for placements at IITB for [aerospace engineering](Branch:AE)
+- Which core companies come for placements at IITB for [aerospace](Branch:AE)
+- Which core companies come for placements at IITB for [CL](Branch)
+- Which core companies come for placements at IITB for [chemical](Branch:CL)
+- Which core companies come for placements at IITB for [chemical engineering](Branch:CL)
+- Which core companies come for placements at IITB for [CE](Branch)
+- Which core companies come for placements at IITB for [civil](Branch:CE)
+- Which core companies come for placements at IITB for [civil engineering](Branch:CE)
+- Which core companies come for placements at IITB for [MEMS](Branch)
+- Which core companies come for placements at IITB for [meta](Branch:MEMS)
+- Which core companies come for placements at IITB for [metallurgical engineering and materials science](Branch:MEMS)
+- Which core companies come for placements at IITB for [MEMS Dual](Branch)
+- Which core companies come for placements at IITB for [meta dual](Branch:MEMS Dual)
+- Which core companies come for placements at IITB for [metallurgical engineering and materials science dual degree](Branch:MEMS Dual)
+- Which core companies come for placements at IITB for [metallurgical engineering and materials science dual](Branch:MEMS Dual)
+- Which core companies come for placements at IITB for [EP](Branch)
+- Which core companies come for placements at IITB for [engineering physics](Branch:EP)
+- Which core companies come for placements at IITB for [Energy](Branch)
+- Which core companies come for placements at IITB for [energy science and engineering](Branch:Energy)
+- Which core companies come for placements at IITB for [Energy Science and Engineering](Branch:Energy)
+- Which core companies come for placements at IITB for [Chemistry](Branch)
+- Which core companies come for placements at IITB for [Economics](Branch)
+- Which core companies come for placements at IITB for [IDC](Branch)
+- Which core companies come for placements at IITB for [B.Des](Branch:IDC)
+- What is the current placement scenario in [CSE](Branch) in IIT Bombay
+- What is the current placement scenario in [computer science](Branch:CSE) in IIT Bombay
+- What is the current placement scenario in [computer science and engineering](Branch:CSE) in IIT Bombay
+- What is the current placement scenario in [EE B.Tech](Branch) in IIT Bombay
+- What is the current placement scenario in [electrical engineering](Branch:EE B.Tech) in IIT Bombay
+- What is the current placement scenario in [elec](Branch:EE B.Tech) in IIT Bombay
+- What is the current placement scenario in [EE Dual](Branch) in IIT Bombay
+- What is the current placement scenario in [electrical dual degree](Branch:EE Dual) in IIT Bombay
+- What is the current placement scenario in [electrical engineering dual degree](Branch:EE Dual) in IIT Bombay
+- What is the current placement scenario in [electrical dual](Branch:EE Dual) in IIT Bombay
+- What is the current placement scenario in [ME](Branch) in IIT Bombay
+- What is the current placement scenario in [mechanical engineering](Branch:ME) in IIT Bombay
+- What is the current placement scenario in [mech](Branch:ME) in IIT Bombay
+- What is the current placement scenario in [ME Dual](Branch) in IIT Bombay
+- What is the current placement scenario in [mech dual](Branch:ME Dual) in IIT Bombay
+- What is the current placement scenario in [mechanical dual degree](Branch:ME Dual) in IIT Bombay
+- What is the current placement scenario in [mechanical engineering dual degree](Branch:ME Dual) in IIT Bombay
+- What is the current placement scenario in [AE](Branch) in IIT Bombay
+- What is the current placement scenario in [aero](Branch:AE) in IIT Bombay
+- What is the current placement scenario in [aerospace engineering](Branch:AE) in IIT Bombay
+- What is the current placement scenario in [aerospace](Branch:AE) in IIT Bombay
+- What is the current placement scenario in [CL](Branch) in IIT Bombay
+- What is the current placement scenario in [chemical](Branch:CL) in IIT Bombay
+- What is the current placement scenario in [chemical engineering](Branch:CL) in IIT Bombay
+- What is the current placement scenario in [CE](Branch) in IIT Bombay
+- What is the current placement scenario in [civil](Branch:CE) in IIT Bombay
+- What is the current placement scenario in [civil engineering](Branch:CE) in IIT Bombay
+- What is the current placement scenario in [MEMS](Branch) in IIT Bombay
+- What is the current placement scenario in [meta](Branch:MEMS) in IIT Bombay
+- What is the current placement scenario in [metallurgical engineering and materials science](Branch:MEMS) in IIT Bombay
+- What is the current placement scenario in [MEMS Dual](Branch) in IIT Bombay
+- What is the current placement scenario in [meta dual](Branch:MEMS Dual) in IIT Bombay
+- What is the current placement scenario in [metallurgical engineering and materials science dual degree](Branch:MEMS Dual) in IIT Bombay
+- What is the current placement scenario in [metallurgical engineering and materials science dual](Branch:MEMS Dual) in IIT Bombay
+- What is the current placement scenario in [EP](Branch) in IIT Bombay
+- What is the current placement scenario in [engineering physics](Branch:EP) in IIT Bombay
+- What is the current placement scenario in [Energy](Branch) in IIT Bombay
+- What is the current placement scenario in [energy science and engineering](Branch:Energy) in IIT Bombay
+- What is the current placement scenario in [Energy Science and Engineering](Branch:Energy) in IIT Bombay
+- What is the current placement scenario in [Chemistry](Branch) in IIT Bombay
+- What is the current placement scenario in [Economics](Branch) in IIT Bombay
+- What is the current placement scenario in [IDC](Branch) in IIT Bombay
+- What is the current placement scenario in [B.Des](Branch:IDC) in IIT Bombay
+- Are there any good placements from [CSE](Branch)?
+- Are there any good placements from [computer science](Branch:CSE)?
+- Are there any good placements from [computer science and engineering](Branch:CSE)?
+- Are there any good placements from [EE B.Tech](Branch)?
+- Are there any good placements from [electrical engineering](Branch:EE B.Tech)?
+- Are there any good placements from [elec](Branch:EE B.Tech)?
+- Are there any good placements from [EE Dual](Branch)?
+- Are there any good placements from [electrical dual degree](Branch:EE Dual)?
+- Are there any good placements from [electrical engineering dual degree](Branch:EE Dual)?
+- Are there any good placements from [electrical dual](Branch:EE Dual)?
+- Are there any good placements from [ME](Branch)?
+- Are there any good placements from [mechanical engineering](Branch:ME)?
+- Are there any good placements from [mech](Branch:ME)?
+- Are there any good placements from [ME Dual](Branch)?
+- Are there any good placements from [mech dual](Branch:ME Dual)?
+- Are there any good placements from [mechanical dual degree](Branch:ME Dual)?
+- Are there any good placements from [mechanical engineering dual degree](Branch:ME Dual)?
+- Are there any good placements from [AE](Branch)?
+- Are there any good placements from [aero](Branch:AE)?
+- Are there any good placements from [aerospace engineering](Branch:AE)?
+- Are there any good placements from [aerospace](Branch:AE)?
+- Are there any good placements from [CL](Branch)?
+- Are there any good placements from [chemical](Branch:CL)?
+- Are there any good placements from [chemical engineering](Branch:CL)?
+- Are there any good placements from [CE](Branch)?
+- Are there any good placements from [civil](Branch:CE)?
+- Are there any good placements from [civil engineering](Branch:CE)?
+- Are there any good placements from [MEMS](Branch)?
+- Are there any good placements from [meta](Branch:MEMS)?
+- Are there any good placements from [metallurgical engineering and materials science](Branch:MEMS)?
+- Are there any good placements from [MEMS Dual](Branch)?
+- Are there any good placements from [meta dual](Branch:MEMS Dual)?
+- Are there any good placements from [metallurgical engineering and materials science dual degree](Branch:MEMS Dual)?
+- Are there any good placements from [metallurgical engineering and materials science dual](Branch:MEMS Dual)?
+- Are there any good placements from [EP](Branch)?
+- Are there any good placements from [engineering physics](Branch:EP)?
+- Are there any good placements from [Energy](Branch)?
+- Are there any good placements from [energy science and engineering](Branch:Energy)?
+- Are there any good placements from [Energy Science and Engineering](Branch:Energy)?
+- Are there any good placements from [Chemistry](Branch)?
+- Are there any good placements from [Economics](Branch)?
+- Are there any good placements from [IDC](Branch)?
+- Are there any good placements from [B.Des](Branch:IDC)?
+
+## intent:Registration
+- Documents to be brought at registration date as well as their PDF formats ?
+- What are the documents to be brought on the registration day?
+- Is there any change in registration dates for freshers of this year?
+- Will there be any notification regarding the documents we have to carry during registration or the ones which were there for verification and is there any change in reporting dates
+- For UCEED, what documents do we have to bring during registration?
+- Please provide the list of documents to be submitted at the time of registration
+
+## intent:Vaccination
+- I couldn’t get the vaccination certificate on time,is it compulsory
+- What can we do if we donot have all vaccinations required before joining?
+- I have been vaccinated with all of them but do not have any records. What should I do?
+
+## intent:Wallets
+- If I use mobile wallet such as [PayTM](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [paytm](Wallets:PayTM) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [FreeCharge](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [freecharge](Wallets:FreeCharge) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [Mobikwik](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [mobikwik](Wallets:Mobikwik) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [PhonePe](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [phonepe](Wallets:PhonePe) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [PayZapp](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [payzapp](Wallets:PayZapp) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [Citrus](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [citrus](Wallets:Citrus) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [State Bank Buddy](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [state bank buddy](Wallets:State Bank Buddy) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [Citi MasterPass](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [citi masterpass](Wallets:Citi MasterPass) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [masterpass](Wallets:Citi MasterPass) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [LIME](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [lime](Wallets:LIME) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [Oxigen](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [oxigen](Wallets:Oxigen) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [Tez](Wallets) and no cash , would it cause me any problem ?
+- If I use mobile wallet such as [tez](Wallets:Tez) and no cash , would it cause me any problem ?
+
+## intent:affirm
+- yes
+- yep
+- yeah
+- indeed
+- that's right
+- ok
+- great
+- right, thank you
+- correct
+- great choice
+- sounds really good
+
+## intent:goodbye
+- bye
+- goodbye
+- good bye
+- stop
+- end
+- farewell
+- Bye bye
+- have a good one
+
+## intent:greet
+- hey
+- howdy
+- hey there
+- hello
+- hi
+- good morning
+- good evening
+- dear sir
+
+## regex:greet
+- hey[^\s]*

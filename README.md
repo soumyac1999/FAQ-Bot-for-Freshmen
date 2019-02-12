@@ -1,7 +1,9 @@
 # FAQ-Bot-for-Freshmen
 
 ### Chat Bot in Action
-![](https://github.com/soumyac1999/FAQ-Bot-for-Freshmen/blob/master/FAQ.png)
+<p align=center>
+<img src="https://github.com/soumyac1999/FAQ-Bot-for-Freshmen/blob/master/FAQ.png" width=350px>
+</p>
 
 ## Contents
 

@@ -16,3 +16,7 @@
 
 - [ ] Read up on custom Rasa models
 - [ ] Change the model to a RNN with previously asked questions as input (for personalization)
+
+---
+
+- [ ] Documentation Revamp
